@@ -29,4 +29,3 @@ ln -s .claude-toolkit/subagents/* .claude/subagents/
 ## Usage
 
 Each folder has its own README with usage instructions.
-# claude-toolkit

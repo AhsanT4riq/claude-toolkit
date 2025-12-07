@@ -21,6 +21,7 @@ Automate the git commit and push workflow:
 
 ## Rules
 
+- Do NOT mention claude code in the commit message
 - Do NOT commit files containing secrets (.env, credentials.json, etc.)
 - Do NOT force push or use destructive git commands
 - Skip committing if there are no relevant changes

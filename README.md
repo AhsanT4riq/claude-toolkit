@@ -12,10 +12,15 @@ A collection of production-ready Claude Code commands and utilities for building
 ## Features
 
 ✨ **Smart Commands** - Slash commands that automate repetitive development tasks
+
 🛠️ **Project Scaffolding** - Quickly set up new projects with proper structure and configuration
+
 🎨 **Component Generation** - Generate production-ready UI components with testing
+
 🧪 **Testing Setup** - Configure Jest and testing libraries automatically
+
 📝 **Code Quality** - Integrated linting, formatting, and commit workflows
+
 🚀 **Zero Configuration** - Works out of the box with sensible defaults
 
 ## Quick Start

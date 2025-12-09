@@ -1,5 +1,5 @@
 ---
-name: install-jest
+name: setup-jest
 description: Install testing libraries
 ---
 
@@ -8,7 +8,7 @@ Install testing libraries:
 1. Install testing libraries:
 
 ```bash
-   npx expo install jest-expo jest @types/jest @testing-library/react-native  --dev
+   bunx expo install jest-expo jest @types/jest @testing-library/react-native --dev
 ```
 
 2. Update package.json:
